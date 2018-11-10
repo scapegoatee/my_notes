@@ -1,0 +1,5 @@
+git init   # creates a .git folder in current directory. First time setup.
+	
+git add .
+git status
+git commit -m "message"
