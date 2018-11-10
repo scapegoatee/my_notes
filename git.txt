@@ -7,3 +7,5 @@ git status
 git commit -m "message"
 git log
 git push origin master
+
+cat .git/config
